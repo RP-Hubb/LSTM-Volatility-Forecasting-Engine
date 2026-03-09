@@ -185,3 +185,4 @@ with col2:
 st.caption("© 2026 LSTM Volatility Forecasting Engine. Powered by PyTorch & Streamlit.")
 
 
+
