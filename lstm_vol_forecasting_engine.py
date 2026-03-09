@@ -183,3 +183,4 @@ with col2:
     plot_error_dist(errors)
 
 st.caption("© 2026 LSTM Volatility Forecasting Engine. Powered by PyTorch & Streamlit.")
+
