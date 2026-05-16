@@ -169,7 +169,7 @@ def plot_error_dist(errors):
 # ==============================
 # Streamlit Layout
 # ==============================
-col1, col2 = st.columns([2, 1])
+col1, col2 = st.columns([2, 2])
 with col1:
     st.subheader("Forecast Plot")
     plot_forecast(y_true, y_pred)
